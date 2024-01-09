@@ -1,0 +1,74 @@
+C++ langage basé sur le C   rappels
+-Instructions  déclaration de variables
+-Portée des variables
+-Les opérateurs et leurs priorités
+-Les conditions  opérateurs logiques
+-Les boucles  while  do while
+Structure d'un programme
+-Le préprocesseur C   C++
+-Header et implémentation
+-Utilisation des constantes
+-Compilation conditionnelle
+-Déclaration anticipée (forward)
+Définition de fonctions
+-La stack
+-Appel d'une fonction
+-Passage par valeur ou par référence
+-Passage par pointeur
+-Pointeur sur fonction
+-Déclaration et utilisation de
+Les classes
+-Définition d'une classe
+-Gestion de l'encapsulation
+-Constructeur
+-Membres et fonctions statiques
+-this
+Gestion de la mémoire
+-Context Automatique  rappel sur
+-Context Statique
+-Context Dynamique
+-Destructeur d'une classe
+Exemples de travaux pratiques
+-Création d'un nouveau projet sur
+-Heap et stack
+-Travail sur les destructeurs et
+Const
+-L'intérêt du const
+-Paramètres const
+-Fonctions membre const
+Fonctions inline
+-Inline implicite
+-Inline explicite
+-Impact sur la compilation
+-Impact sur le code généré
+Héritage et polymorphisme
+-Héritage public de C++
+-Construction des classes dérivées
+-Utiliser la ZIM
+-Fonctions virtuelles
+-Fonctions virtuelles pures et
+-Destruction des classes dérivées
+Surcharge d'opérateur
+-Opérateur de cast
+-Opérateur de pointeur
+Constructeur de copie et surcharge
+-Surcharge
+-Du constructeur de copie
+-De l'opérateur d'affectation
+La STL (Standard Template Library)
+-Les conteneurs
+-Les itérateurs
+-Les algorithmes
+Exemple de travaux pratiques (à
+-Projet exploitant les apports
+Gestion des exceptions
+-Les problématiques
+-Exception et références
+-Exception et valeurs
+-Exception et pointeurs
+Evolutions du langage C++
+-Les lambda expressions
+-Les closures
+-Panorama des apports des versions
+-dans le langage   apports des
+-dans les classes   apports des

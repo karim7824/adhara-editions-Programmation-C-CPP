@@ -1,0 +1,150 @@
+titre: Programmation C-CPP
+chapitres:
+ C++ langage basé sur le C   rappels:
+  paragraphes:
+ – Instructions, déclaration de variables, types et littéraux:
+  paragraphes:
+ – Portée des variables:
+  paragraphes:
+ – Les opérateurs et leurs priorités:
+  paragraphes:
+ – Les conditions, opérateurs logiques:
+  paragraphes:
+ – Les boucles, while, do while, for, break continue, goto:
+  paragraphes:
+ Structure d'un programme:
+  paragraphes:
+ – Le préprocesseur C / C++:
+  paragraphes:
+ – Header et implémentation:
+  paragraphes:
+ – Utilisation des constantes:
+  paragraphes:
+ – Compilation conditionnelle:
+  paragraphes:
+ – Déclaration anticipée (forward):
+  paragraphes:
+ Définition de fonctions:
+  paragraphes:
+ – La stack:
+  paragraphes:
+ – Appel d'une fonction:
+  paragraphes:
+ – Passage par valeur ou par référence:
+  paragraphes:
+ – Passage par pointeur:
+  paragraphes:
+ – Pointeur sur fonction:
+  paragraphes:
+ – Déclaration et utilisation de pointeurs sur fonctions:
+  paragraphes:
+ Les classes:
+  paragraphes:
+ – Définition d'une classe:
+  paragraphes:
+ – Gestion de l'encapsulation:
+  paragraphes:
+ – Constructeur:
+  paragraphes:
+ – Membres et fonctions statiques d'une classe:
+  paragraphes:
+ – this:
+  paragraphes:
+ Gestion de la mémoire:
+  paragraphes:
+ – Context Automatique, rappel sur la stack:
+  paragraphes:
+ – Context Statique:
+  paragraphes:
+ – Context Dynamique:
+  paragraphes:
+ – Destructeur d'une classe:
+  paragraphes:
+ Exemples de travaux pratiques (à titre indicatif):
+  paragraphes:
+ – Création d'un nouveau projet sur la gestion mémoire:
+  paragraphes:
+ – Heap et stack:
+  paragraphes:
+ – Travail sur les destructeurs et constructeurs:
+  paragraphes:
+ Const:
+  paragraphes:
+ – L'intérêt du "const":
+  paragraphes:
+ – Paramètres "const":
+  paragraphes:
+ – Fonctions membre "const":
+  paragraphes:
+ Fonctions inline:
+  paragraphes:
+ – Inline implicite:
+  paragraphes:
+ – Inline explicite:
+  paragraphes:
+ – Impact sur la compilation:
+  paragraphes:
+ – Impact sur le code généré:
+  paragraphes:
+ Héritage et polymorphisme:
+  paragraphes:
+ – Héritage public de C++:
+  paragraphes:
+ – Construction des classes dérivées:
+  paragraphes:
+ – Utiliser la ZIM:
+  paragraphes:
+ – Fonctions virtuelles:
+  paragraphes:
+ – Fonctions virtuelles pures et classes de bases abstraites:
+  paragraphes:
+ – Destruction des classes dérivées:
+  paragraphes:
+ Surcharge d'opérateur:
+  paragraphes:
+ – Opérateur de cast:
+  paragraphes:
+ – Opérateur de pointeur:
+  paragraphes:
+ Constructeur de copie et surcharge d'opérateur d'affectation:
+  paragraphes:
+ – Surcharge:
+  paragraphes:
+ – Du constructeur de copie:
+  paragraphes:
+ – De l'opérateur d'affectation:
+  paragraphes:
+ La STL (Standard Template Library):
+  paragraphes:
+ – Les conteneurs:
+  paragraphes:
+ – Les itérateurs:
+  paragraphes:
+ – Les algorithmes:
+  paragraphes:
+ Exemple de travaux pratiques (à titre indicatif):
+  paragraphes:
+ – Projet exploitant les apports de la STL en C++:
+  paragraphes:
+ Gestion des exceptions:
+  paragraphes:
+ – Les problématiques:
+  paragraphes:
+ – Exception et références:
+  paragraphes:
+ – Exception et valeurs:
+  paragraphes:
+ – Exception et pointeurs:
+  paragraphes:
+ Evolutions du langage C++:
+  paragraphes:
+ – Les lambda expressions:
+  paragraphes:
+ – Les closures:
+  paragraphes:
+ – Panorama des apports des versions C++11 à C++20:
+  paragraphes:
+ – dans le langage   apports des nouvelles versions:
+  paragraphes:
+ – dans les classes   apports des nouvelles versions:
+  paragraphes:
